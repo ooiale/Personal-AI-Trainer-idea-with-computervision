@@ -1,4 +1,4 @@
-# other-computer-vision-projects
+# AI Trainer with computervision
 
 This is a prototype for an AI Personal Trainer project using cv2 and the pose module from mediapipe. 
 This code is responsible for counting push-ups by detecting the movements of the user's arm landmarks detected by the mediapipe pose module.
